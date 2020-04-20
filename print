@@ -1,0 +1,4 @@
+#!/bin/bash
+
+######printing in shell script
+echo 'Hello World'
