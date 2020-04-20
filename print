@@ -6,4 +6,4 @@ echo 'Hello World'
 echo Hello1
 echo Hello2
 ####using single echo cmd
-echo Hello1/nHello2
+echo Hello1\nHello2
