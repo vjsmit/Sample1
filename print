@@ -10,3 +10,7 @@ echo Hello1\nHello2
 
 ####using opton e and use double quote
 echo -e 'Hello1\nHello2'
+
+##using tab 
+
+echo -e '1.\tSmit\tVijay\n2.\tGood\tBoy'
