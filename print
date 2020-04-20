@@ -15,5 +15,5 @@ echo -e 'Hello1\nHello2'
 echo -e '1.\tSmit\t\tVijay\n2.\tGood\t\tBoy'
 
 ##printing color
-echo -e '[33myellow'
+echo -e '\e[33myellow'
 echo -e 'No color'
