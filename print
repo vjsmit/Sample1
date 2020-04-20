@@ -2,3 +2,8 @@
 
 ######printing in shell script
 echo 'Hello World'
+##multiple line print
+echo Hello1
+echo Hello2
+####using single echo cmd
+echo Hello1/nHello2
