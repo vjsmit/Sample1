@@ -7,3 +7,6 @@ echo Hello1
 echo Hello2
 ####using single echo cmd
 echo Hello1\nHello2
+
+####using opton e and use double quote
+echo -e 'Hello1\nHello2'
