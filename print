@@ -19,4 +19,4 @@ echo -e '\e[33myellow\e[0m'
 echo -e 'No color'
 
 ##print both fg & bf
-ech0 -e "\e[44:31mREDonBLUE\e[0m"
+echo -e "\e[44:31mREDonBLUE\e[0m"
