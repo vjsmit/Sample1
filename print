@@ -12,5 +12,8 @@ echo Hello1\nHello2
 echo -e 'Hello1\nHello2'
 
 ##using tab 
+echo -e '1.\tSmit\t\tVijay\n2.\tGood\t\tBoy'
 
-echo -e '1.\tSmit\tVijay\n2.\tGood\tBoy'
+##printing color
+echo -e '[33myellow'
+echo -e 'No color'
